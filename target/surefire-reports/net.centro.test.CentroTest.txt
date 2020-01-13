@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: net.centro.test.CentroTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.977 s - in net.centro.test.CentroTest
