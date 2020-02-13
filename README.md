@@ -1,8 +1,8 @@
-# Automation
-Choose Selenium/cucumber for the test.
-Please read about POM (Page Object Model) design pattern and Junit/TestNG, and try to utilize them in your solution.
+# Automation 
+Choose Selenium Web Driver for the test.
+I have utilized POM (Page Object Model) design pattern and Junit/TestNG in my solution.
 
--Go to https://www.centro.net/
+-Go to https://www.centro.net/ (This website has been used just for test purpose)
 -Click on Company->Careers
 -Click on View all current opening
 -Filter the results by Location set to Toronto
